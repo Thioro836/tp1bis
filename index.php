@@ -1,5 +1,7 @@
 <?php
-
+/**
+ * c'est la classe principale
+ */
 
 include('config.php');
 
